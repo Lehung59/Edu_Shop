@@ -27,7 +27,8 @@ Quản lí người dùng (CRUD).
 
 Thêm voucher giảm giá sản phẩm.
 
-- User.
+- User
+
 Thêm sản phẩm vào giỏ hàng.
 
 Thanh toán sản phẩm thông qua VNPay.
